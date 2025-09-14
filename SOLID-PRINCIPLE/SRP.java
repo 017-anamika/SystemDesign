@@ -1,3 +1,4 @@
+/*A class should have only one reason to change.*/
 class Book {
     String title, author;
     Book(String t, String a) { title = t; author = a; }
